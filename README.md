@@ -8,9 +8,9 @@
 
 *Conception mécanique · Simulation · Optimisation · Qualité et amélioration continue*
 
-**Bienvenue !** Découvrez mes projets de **conception mécanique et management de la qualité** à travers des études de cas, des analyses techniques, des résultats commentés et des démonstrations interactives.
+Deux études de cas en **conception mécanique** et **management de la qualité** : démarche technique, résultats commentés, vérifications et démonstrations interactives.
 
-### ⬇️ DÉCOUVREZ MES DEUX PROJETS ⬇️
+### Deux projets d’ingénierie
 
 [**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) &nbsp; • &nbsp; [**🌐 Démo du projet 02**](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/)
 
@@ -22,7 +22,7 @@
 
 ## 📂 Mes projets d’ingénierie
 
-**Cliquez sur l’image ou sur « Voir le projet » pour consulter son dossier technique.** Les démonstrations sont indiquées lorsqu’elles sont publiées.
+Chaque projet dispose d’un dossier technique et d’une démonstration interactive.
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 **🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)**
 
-<sub>Projet académique réalisé en groupe. Les résultats sont présentés avec leurs limites et vérifications nécessaires.</sub>
+<sub>Étude académique collective. Le facteur de sécurité observé (≈ 0,647) reste inférieur à la cible (1,25) ; la validation mécanique est à poursuivre.</sub>
 
 </td>
 </tr>
@@ -75,8 +75,6 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 </tr>
 </table>
 
-> **Portfolio en développement :** d'autres études de mécanique, de conception et de qualité seront ajoutées progressivement.
-
 ---
 
 ## 🔍 Comment découvrir mes travaux ?
@@ -94,13 +92,13 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 **Conception / CAO :** CATIA V5, modélisation et reconstruction géométrique.  
 **Simulation / Optimisation :** Altair Inspire, chargements, interprétation des facteurs de sécurité et optimisation topologique.  
 **Industrialisation :** fabrication additive, étude des paramètres Cura, analyse des coûts.  
-**Valorisation numérique :** interfaces interactives HTML, CSS et JavaScript.
+**Présentation des résultats :** tableaux de bord, visualisations techniques et outils d’exploration interactifs.
 
 ---
 
 <div align="center">
 
-### Pour un recruteur
+### Accès rapide aux projets
 
 **Commencez par [Mes projets d’ingénierie](#mes-projets).** Chaque projet dispose d'un espace identifié, d'une documentation et d'une démonstration lorsqu'elle est disponible.
 
