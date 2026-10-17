@@ -37,9 +37,7 @@ Chaque projet dispose d’un dossier technique et d’une démonstration interac
 
 **CATIA V5 · Altair Inspire · Cura**
 
-Reconception d’une pièce aéronautique par optimisation topologique et étude de fabrication additive.
-
-**Résultats rapportés :** masse de 55 g à 24 g (allègement estimé ≈ 56 %). Analyse d’un chargement de 2 300 N et étude technico-économique.
+**Résumé du projet.** Un support mécanique associé aux portes du train d’atterrissage a été étudié pour réduire sa masse tout en conservant ses interfaces de fixation. La démarche associe **CATIA V5** (conception), **Altair Inspire** (optimisation topologique et calcul), **PolyNURBS** (reconstruction) et **Cura** (étude de fabrication additive). La masse passe de **55 g à 24 g** dans l’étude, soit environ **56 % d’allègement estimé**. Sous une charge étudiée de **2 300 N**, le facteur de sécurité observé (**≈ 0,647**) reste inférieur à la cible (**1,25**) : la conception doit encore être vérifiée et améliorée.
 
 **➡️ [VOIR LE PROJET SUR GITHUB](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique)**
 
@@ -61,9 +59,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 **Audit qualité · Ishikawa 5M · PDCA · KPI**
 
-Évaluation des processus d'une **école d'ingénieurs**, diagnostic des écarts et propositions d'actions correctives.
-
-**Indicateurs :** 7 chapitres, **72 critères numérotés**, 14 actions d'amélioration. Planification : **46 %**.
+**Résumé du projet.** L’étude vise à évaluer le fonctionnement d’une **école d’ingénieurs** au regard de la norme **ISO 21001**, puis à identifier les améliorations nécessaires. Une grille de **72 critères numérotés**, répartis sur **7 chapitres**, permet d’analyser les écarts. Un diagramme **Ishikawa 5M** structure **15 facteurs potentiels** de non-conformité, avant la proposition de **14 actions** assorties de responsables, de délais et d’indicateurs. La planification (chapitre 6) atteint **46 %** dans le diagnostic. Les résultats ne constituent pas une certification et certaines valeurs récapitulatives restent à consolider.
 
 **🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/)**
 
