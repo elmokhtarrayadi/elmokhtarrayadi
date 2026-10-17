@@ -51,7 +51,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 </tr>
 <tr>
 <td width="51%" valign="top">
-<a href="https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/"><img src="projets/diagnostic-iso-21001/cover.svg" width="100%" alt="Projet ISO 21001 - Diagnostic qualité et tableau de bord de conformité" /></a>
+<a href="https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi21-creator/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Projet ISO 21001 - Diagnostic qualité et tableau de bord de conformité" /></a>
 <br/>
 <sub>Tableau de bord qualité : conformité ISO 21001 et amélioration continue.</sub>
 </td>
@@ -67,7 +67,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 **🌐 [OUVRIR LE TABLEAU DE BORD INTERACTIF](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/)**
 
-**📂 [CONSULTER LE DOSSIER TECHNIQUE](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique/tree/main/projets/diagnostic-iso-21001)**
+**📂 [CONSULTER LE DOSSIER TECHNIQUE](https://github.com/elmokhtarrayadi21-creator/diagnostic-iso-21001)**
 
 <sub>Étude académique collective · Cas anonymisé. Les scénarios sont indicatifs et distincts du diagnostic.</sub>
 
