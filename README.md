@@ -1,41 +1,77 @@
-# Mechanical Engineering Portfolio
+<div align="center">
 
-**Conception mécanique · CAO · Analyse structurale · Optimisation · Fabrication additive**
+<img src="assets/engineering-portfolio-banner.svg" alt="Portfolio — Projets d’ingénierie mécanique" width="100%" />
 
-Bienvenue sur mon espace GitHub. J'y présente des projets d'ingénierie mécanique sous forme de **dossiers techniques structurés** et, lorsque cela est possible, de **démonstrations web interactives**. Chaque dépôt permet de retrouver les objectifs, la démarche, les outils et les résultats du projet.
+### Conception mécanique · CATIA V5 · Analyse et simulation · Optimisation · Fabrication additive
 
----
+**Bienvenue !** Découvrez mes projets d’ingénierie à travers des modèles, des captures de simulation, des résultats commentés et des démonstrations interactives.
 
-## Projets d'ingénierie
+### ⬇️ MES PROJETS SONT JUSTE EN DESSOUS ⬇️
 
-| Projet | Domaines et outils | Accès |
-|:--|:--|:--|
-| **01 · Optimisation topologique d'un composant aéronautique** | CATIA V5 · Altair Inspire · Cura · Fabrication additive | [**Voir le projet**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Démo interactive**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) |
+[**📂 Voir mes projets**](#-mes-projets-dingénierie) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
 
-### Projet 01 — Optimisation topologique aéronautique
-
-**Objectif :** étudier la reconception d'une pièce de transmission d'efforts du mécanisme de portes de train d'atterrissage, en recherchant un allègement compatible avec les exigences mécaniques et la fabrication additive.
-
-- **Méthode :** CAO, définition des zones fonctionnelles, optimisation topologique, reconstruction et étude technico-économique.
-- **Cas de charge étudié :** 2 300 N ; **coefficient de sécurité visé :** 1,25.
-- **Allègement indiqué dans le rapport :** 55 g à 24 g, soit environ 56 % de réduction de masse.
-- **Valorisation numérique :** interface web avec indicateurs, comparaison de scénarios économiques et présentation de la démarche.
-
-> Les valeurs ci-dessus proviennent des documents du projet. L'application sert à présenter et explorer l'étude ; elle ne constitue pas une certification de résistance mécanique.
-
-[**Ouvrir le dépôt**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Ouvrir la démonstration**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
+</div>
 
 ---
 
-## Compétences mises en pratique
+## 📂 Mes projets d’ingénierie
 
-**CAO / Conception** — CATIA V5 · Assemblages · Reconception de pièces  
-**Simulation / Optimisation** — Altair Inspire · Conditions aux limites · Optimisation topologique  
-**Fabrication / Industrialisation** — Fabrication additive · Cura · Analyse des coûts  
-**Valorisation numérique** — HTML · CSS · JavaScript · Visualisations interactives
+**Cliquez sur l’image ou sur « Voir le projet » pour consulter son dossier technique.** Cliquez sur « Démo interactive » pour ouvrir l’application.
 
-## Explorer le portfolio
+<table>
+<tr>
+<td width="51%" valign="top">
+<a href="https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique"><img src="https://raw.githubusercontent.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique/main/assets/reconstruction-catia.jpg" width="100%" alt="Pièce aéronautique reconstruite sous CATIA V5 après optimisation topologique" /></a>
+<br/>
+<sub>Capture réelle : géométrie reconstruite sous CATIA V5.</sub>
+</td>
+<td valign="top">
 
-Chaque **repository** est consacré à un projet. La documentation explique les méthodes et les résultats, et les démonstrations interactives sont indiquées lorsqu'elles sont disponibles. **De nouveaux projets seront ajoutés progressivement.**
+### 01 · Optimisation topologique aéronautique
 
-> Pour commencer, consultez le [projet d'optimisation topologique](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique).
+**CATIA V5 · Altair Inspire · Cura**
+
+Reconception d’une pièce aéronautique par optimisation topologique et étude de fabrication additive.
+
+**Résultats rapportés :** masse de 55 g à 24 g (allègement estimé ≈ 56 %). Analyse d’un chargement de 2 300 N et étude technico-économique.
+
+**➡️ [VOIR LE PROJET SUR GITHUB](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique)**
+
+**🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)**
+
+<sub>Projet académique réalisé en groupe. Les résultats sont présentés avec leurs limites et vérifications nécessaires.</sub>
+
+</td>
+</tr>
+</table>
+
+> **Portfolio en construction :** les prochains projets de mécanique seront ajoutés ci-dessus, chacun avec sa propre image, sa documentation et, lorsque c’est possible, une démonstration interactive.
+
+---
+
+## 🔍 Comment découvrir mes travaux ?
+
+| Vous souhaitez… | Cliquez ici |
+| :-- | :-- |
+| Examiner la démarche CAO, la méthode et les résultats | [**Dossier technique — Projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) |
+| Voir directement les visualisations et les comparateurs | [**Application interactive — Projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) |
+| Consulter tous les dépôts disponibles | [**Mes repositories**](https://github.com/elmokhtarrayadi21-creator?tab=repositories) |
+
+## 🛠️ Domaines représentés
+
+**Conception / CAO :** CATIA V5, modélisation et reconstruction géométrique.  
+**Simulation / Optimisation :** Altair Inspire, chargements, interprétation des facteurs de sécurité et optimisation topologique.  
+**Industrialisation :** fabrication additive, étude des paramètres Cura, analyse des coûts.  
+**Valorisation numérique :** interfaces interactives HTML, CSS et JavaScript.
+
+---
+
+<div align="center">
+
+### Pour un recruteur
+
+**Commencez par [Mes projets d’ingénierie](#-mes-projets-dingénierie).** Chaque projet possède son propre dépôt, ses illustrations et ses résultats. Les nouvelles études seront progressivement intégrées au même endroit.
+
+[**Voir le projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Lancer la démo**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
+
+</div>
