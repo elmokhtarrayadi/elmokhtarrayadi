@@ -59,7 +59,7 @@ Chaque projet dispose d’un dossier technique et d’une démonstration interac
 
 **Audit qualité · Ishikawa 5M · PDCA · KPI**
 
-**Résumé du projet.** L’étude vise à évaluer le fonctionnement d’une **école d’ingénieurs** au regard de la norme **ISO 21001**, puis à identifier les améliorations nécessaires. Une grille de **72 critères numérotés**, répartis sur **7 chapitres**, permet d’analyser les écarts. Un diagramme **Ishikawa 5M** structure **15 facteurs potentiels** de non-conformité, avant la proposition de **14 actions** assorties de responsables, de délais et d’indicateurs. La planification (chapitre 6) atteint **46 %** dans le diagnostic. Les résultats ne constituent pas une certification et certaines valeurs récapitulatives restent à consolider.
+**Résumé du projet.** Étude d’amélioration du management de la qualité d’une **école d’ingénieurs**, fondée sur la norme **ISO 21001**. Le travail suit cinq étapes : **évaluer les pratiques**, **identifier les écarts**, **analyser leurs causes potentielles** avec Ishikawa 5M, **proposer des actions correctives** et **comparer des scénarios théoriques**. Le diagnostic s'appuie sur **72 critères numérotés** ; l'analyse présente **15 facteurs potentiels** et **14 actions proposées**, avec responsables, délais et KPI. La planification affiche **46 % de conformité**. Les données divergentes sont signalées et aucune certification n'est revendiquée.
 
 **🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/)**
 
