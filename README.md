@@ -63,7 +63,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 Évaluation des processus d'une **école d'ingénieurs**, diagnostic des écarts et propositions d'actions correctives.
 
-**Indicateurs :** 7 chapitres, 71 évaluations récapitulées, 14 actions d'amélioration. Planification : **46 %**.
+**Indicateurs :** 7 chapitres, **72 critères numérotés**, 14 actions d'amélioration. Planification : **46 %**.
 
 **🌐 [OUVRIR LE TABLEAU DE BORD INTERACTIF](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/)**
 
