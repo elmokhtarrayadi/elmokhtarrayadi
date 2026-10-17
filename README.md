@@ -8,11 +8,13 @@
 
 ### ⬇️ MES PROJETS SONT JUSTE EN DESSOUS ⬇️
 
-[**📂 Voir mes projets**](#-mes-projets-dingénierie) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
+[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
 
 </div>
 
 ---
+
+<a id="mes-projets"></a>
 
 ## 📂 Mes projets d’ingénierie
 
@@ -70,7 +72,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 ### Pour un recruteur
 
-**Commencez par [Mes projets d’ingénierie](#-mes-projets-dingénierie).** Chaque projet possède son propre dépôt, ses illustrations et ses résultats. Les nouvelles études seront progressivement intégrées au même endroit.
+**Commencez par [Mes projets d’ingénierie](#mes-projets).** Chaque projet possède son propre dépôt, ses illustrations et ses résultats. Les nouvelles études seront progressivement intégrées au même endroit.
 
 [**Voir le projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Lancer la démo**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
 
