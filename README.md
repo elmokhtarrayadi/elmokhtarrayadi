@@ -12,7 +12,7 @@
 
 ### ⬇️ DÉCOUVREZ MES DEUX PROJETS ⬇️
 
-[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
+[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) &nbsp; • &nbsp; [**🌐 Démo du projet 02**](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/)
 
 </div>
 
@@ -65,7 +65,7 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 **Indicateurs :** 7 chapitres, **72 critères numérotés**, 14 actions d'amélioration. Planification : **46 %**.
 
-**🧩 Application HTML : publication de la démonstration en préparation**
+**🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/)**
 
 **📂 [CONSULTER LE DOSSIER TECHNIQUE](https://github.com/elmokhtarrayadi21-creator/diagnostic-iso-21001)**
 
@@ -85,7 +85,8 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 | :-- | :-- |
 | Examiner la démarche CAO, la méthode et les résultats | [**Dossier technique — Projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) |
 | Voir directement les visualisations et les comparateurs | [**Application interactive — Projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) |
-| Explorer le diagnostic de management ISO 21001 | [**Dossier technique — Projet 02**](https://github.com/elmokhtarrayadi21-creator/diagnostic-iso-21001) |
+| Explorer le diagnostic de management ISO 21001 | [**Application interactive — Projet 02**](https://elmokhtarrayadi21-creator.github.io/diagnostic-iso-21001/) |
+| Consulter les fichiers du projet ISO 21001 | [**Dossier technique — Projet 02**](https://github.com/elmokhtarrayadi21-creator/diagnostic-iso-21001) |
 | Consulter les dépôts GitHub | [**Mes repositories**](https://github.com/elmokhtarrayadi21-creator?tab=repositories) |
 
 ## 🛠️ Domaines représentés
