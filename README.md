@@ -6,11 +6,11 @@
 
 **Étudiant ingénieur en Génie Mécanique des Systèmes Industriels**
 
-*Conception mécanique · CATIA V5 · Analyse et simulation · Optimisation · Fabrication additive*
+*Conception mécanique · Simulation · Optimisation · Qualité et amélioration continue*
 
-**Bienvenue !** Découvrez mes projets d’ingénierie à travers des modèles, des captures de simulation, des résultats commentés et des démonstrations interactives.
+**Bienvenue !** Découvrez mes projets de **conception mécanique et management de la qualité** à travers des études de cas, des analyses techniques, des résultats commentés et des démonstrations interactives.
 
-### ⬇️ MES PROJETS SONT JUSTE EN DESSOUS ⬇️
+### ⬇️ DÉCOUVREZ MES DEUX PROJETS ⬇️
 
 [**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
 
@@ -49,9 +49,33 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 </td>
 </tr>
+<tr>
+<td width="51%" valign="top">
+<a href="https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/"><img src="projets/diagnostic-iso-21001/cover.svg" width="100%" alt="Projet ISO 21001 - Diagnostic qualité et tableau de bord de conformité" /></a>
+<br/>
+<sub>Tableau de bord qualité : conformité ISO 21001 et amélioration continue.</sub>
+</td>
+<td valign="top">
+
+### 02 · Diagnostic ISO 21001 et amélioration continue
+
+**Audit qualité · Ishikawa 5M · PDCA · KPI**
+
+Évaluation des processus d'une **école d'ingénieurs**, diagnostic des écarts et propositions d'actions correctives.
+
+**Indicateurs :** 7 chapitres, 71 évaluations récapitulées, 14 actions d'amélioration. Planification : **46 %**.
+
+**🌐 [OUVRIR LE TABLEAU DE BORD INTERACTIF](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/)**
+
+**📂 [CONSULTER LE DOSSIER TECHNIQUE](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique/tree/main/projets/diagnostic-iso-21001)**
+
+<sub>Étude académique collective · Cas anonymisé. Les scénarios sont indicatifs et distincts du diagnostic.</sub>
+
+</td>
+</tr>
 </table>
 
-> **Portfolio en construction :** les prochains projets de mécanique seront ajoutés ci-dessus, chacun avec sa propre image, sa documentation et, lorsque c’est possible, une démonstration interactive.
+> **Portfolio en développement :** d'autres études de mécanique, de conception et de qualité seront ajoutées progressivement.
 
 ---
 
@@ -61,7 +85,8 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 | :-- | :-- |
 | Examiner la démarche CAO, la méthode et les résultats | [**Dossier technique — Projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) |
 | Voir directement les visualisations et les comparateurs | [**Application interactive — Projet 01**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/) |
-| Consulter tous les dépôts disponibles | [**Mes repositories**](https://github.com/elmokhtarrayadi21-creator?tab=repositories) |
+| Explorer le diagnostic de management ISO 21001 | [**Projet 02 — Qualité et amélioration continue**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/) |
+| Consulter les dépôts GitHub | [**Mes repositories**](https://github.com/elmokhtarrayadi21-creator?tab=repositories) |
 
 ## 🛠️ Domaines représentés
 
@@ -76,8 +101,8 @@ Reconception d’une pièce aéronautique par optimisation topologique et étude
 
 ### Pour un recruteur
 
-**Commencez par [Mes projets d’ingénierie](#mes-projets).** Chaque projet possède son propre dépôt, ses illustrations et ses résultats. Les nouvelles études seront progressivement intégrées au même endroit.
+**Commencez par [Mes projets d’ingénierie](#mes-projets).** Chaque projet dispose d'un espace identifié, d'une documentation et d'une démonstration lorsqu'elle est disponible.
 
-[**Voir le projet 01**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Lancer la démo**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/)
+[**Projet 01 — Conception mécanique**](https://github.com/elmokhtarrayadi21-creator/optimisation-topologique-aeronautique) · [**Projet 02 — Management qualité**](https://elmokhtarrayadi21-creator.github.io/optimisation-topologique-aeronautique/projets/diagnostic-iso-21001/)
 
 </div>
