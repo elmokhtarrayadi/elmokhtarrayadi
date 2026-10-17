@@ -2,7 +2,11 @@
 
 <img src="assets/engineering-portfolio-banner.svg" alt="Portfolio — Projets d’ingénierie mécanique" width="100%" />
 
-### Conception mécanique · CATIA V5 · Analyse et simulation · Optimisation · Fabrication additive
+## Elmokhtar Rayadi
+
+**Étudiant ingénieur en Génie Mécanique des Systèmes Industriels**
+
+*Conception mécanique · CATIA V5 · Analyse et simulation · Optimisation · Fabrication additive*
 
 **Bienvenue !** Découvrez mes projets d’ingénierie à travers des modèles, des captures de simulation, des résultats commentés et des démonstrations interactives.
 
