@@ -25,6 +25,26 @@
 <table>
 <tr>
 <td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/diagnostic-iso-21001/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Tableau de bord de conformité ISO 21001" /></a>
+</td>
+<td valign="top">
+
+### Diagnostic qualité ISO 21001
+
+**Audit · Ishikawa 5M · PDCA · KPI**
+
+Diagnostic du système de management de la qualité d’une école d’ingénieurs : évaluation, analyse des causes et plan d’amélioration chiffré.
+
+- **72 critères** évalués sur les 7 chapitres d’exigences
+- **15 causes** analysées, **14 actions** avec responsable, délai et KPI
+- Priorité identifiée : planification (**46 %** de conformité)
+
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) · [Dépôt](https://github.com/elmokhtarrayadi/diagnostic-iso-21001)
+
+</td>
+</tr>
+<tr>
+<td width="48%" valign="top">
 <a href="https://elmokhtarrayadi.github.io/conception-genou-polycentrique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/conception-genou-polycentrique/main/assets/assemblage_plan_catia.webp" width="100%" alt="Assemblage CATIA V5 du genou prothétique polycentrique" /></a>
 </td>
 <td valign="top">
@@ -80,26 +100,6 @@ Allègement d’un support de porte de train d’atterrissage : optimisation top
 - Analyse critique du résultat mécanique et pistes de la prochaine itération
 
 [**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique)
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-<a href="https://elmokhtarrayadi.github.io/diagnostic-iso-21001/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Tableau de bord de conformité ISO 21001" /></a>
-</td>
-<td valign="top">
-
-### Diagnostic qualité ISO 21001
-
-**Audit · Ishikawa 5M · PDCA · KPI**
-
-Diagnostic du système de management de la qualité d’une école d’ingénieurs : évaluation, analyse des causes et plan d’amélioration chiffré.
-
-- **72 critères** évalués sur les 7 chapitres d’exigences
-- **15 causes** analysées, **14 actions** avec responsable, délai et KPI
-- Priorité identifiée : planification (**46 %** de conformité)
-
-[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) · [Dépôt](https://github.com/elmokhtarrayadi/diagnostic-iso-21001)
 
 </td>
 </tr>
