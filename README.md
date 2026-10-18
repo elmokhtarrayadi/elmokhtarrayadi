@@ -65,11 +65,11 @@ Allègement d’un support de porte de train d’atterrissage : optimisation top
 </tr>
 <tr>
 <td width="48%" valign="top">
-<a href="https://elmokhtarrayadi.github.io/maintenance-predictive-turboreacteur/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/maintenance-predictive-turboreacteur/main/assets/rul-historique.webp" width="100%" alt="RUL réel et prédit d’un turboréacteur CFM56-7B" /></a>
+<a href="https://elmokhtarrayadi.github.io/maintenance-predictive-turboreacteur/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/maintenance-predictive-turboreacteur/main/assets/rul-historique.webp" width="100%" alt="RUL réel et prédit d’un turboréacteur" /></a>
 </td>
 <td valign="top">
 
-### Maintenance prédictive d’un turboréacteur CFM56-7B
+### Maintenance prédictive d’un turboréacteur
 
 **Pareto · AMDEC · Fiabilité · Python · XGBoost**
 
