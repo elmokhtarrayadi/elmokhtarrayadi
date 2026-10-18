@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="128" viewBox="0 0 630 128" role="img" aria-label="Maintenance, Fiabilité &amp; Qualité — Fiabilité · maintenance · ISO · amélioration continue">
+  <title>Maintenance, Fiabilité &amp; Qualité — Fiabilité · maintenance · ISO · amélioration continue</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1a24"/><stop offset="1" stop-color="#10283a"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1d3b49" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="630" height="128" rx="16" fill="url(#bg)"/>
+  <rect width="630" height="128" rx="16" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="629" height="127" rx="16" fill="none" stroke="#f2b45a" stroke-opacity=".35"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <circle cx="66" cy="64" r="34" fill="#f2b45a" fill-opacity=".12" stroke="#f2b45a" stroke-opacity=".6"/>
+    <g transform="translate(66 64) rotate(-45)" fill="none" stroke="#f2b45a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="rotate" values="-45 0 0;-25 0 0;-45 0 0" dur="2.4s" repeatCount="indefinite" additive="sum"/>
+      <path d="M-4 -20 a9 9 0 1 0 8 0 v7 h-8 z" transform="translate(0 -1)"/><path d="M-3 -6 L-3 20 a3 3 0 0 0 6 0 L3 -6"/></g>
+    <text x="122" y="44" font-size="12" font-weight="700" fill="#f2b45a" letter-spacing="2.5">UNIVERS 02</text>
+    <text x="121" y="78" font-size="27" font-weight="800" fill="#f2fbfa" letter-spacing="-.5">Maintenance, Fiabilité &amp; Qualité</text>
+    <text x="122" y="104" font-size="14" fill="#9cc3c9">Fiabilité · maintenance · ISO · amélioration continue</text>
+    <g transform="translate(588 64)"><path d="M-8 -9 L2 0 L-8 9" fill="none" stroke="#f2b45a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="translate" values="0 0;6 0;0 0" dur="1.8s" repeatCount="indefinite"/></path></g>
+  </g>
+</svg>
