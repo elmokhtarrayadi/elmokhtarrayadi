@@ -3,10 +3,10 @@
 <div align="center">
 
 **Élève ingénieur en Génie Mécanique des Systèmes Industriels**<br>
-Mes projets sont rangés en deux univers : <b>cliquez sur un univers pour l’ouvrir</b>.
+Mes projets sont rangés en deux univers : <b>cliquez sur un bouton pour ouvrir sa page</b>, ou dépliez un univers ci-dessous.
 
-<a href="#conception"><img src="assets/btn-conception.svg" alt="Univers 01 : Conception et simulation" width="49%"></a>
-<a href="#maintenance"><img src="assets/btn-maintenance.svg" alt="Univers 02 : Maintenance, fiabilité et qualité" width="49%"></a>
+<a href="https://elmokhtarrayadi.github.io/conception/"><img src="assets/btn-conception.svg" alt="Univers 01 : Conception et simulation" width="49%"></a>
+<a href="https://elmokhtarrayadi.github.io/maintenance/"><img src="assets/btn-maintenance.svg" alt="Univers 02 : Maintenance, fiabilité et qualité" width="49%"></a>
 
 </div>
 
