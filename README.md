@@ -1,22 +1,26 @@
 <a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-v2.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
 
+<img src="assets/metrics.svg" alt="Chiffres clés : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), S = 2,4 (genou), 72 critères ISO 21001" width="100%">
+
 <div align="center">
 
-**Élève ingénieur en Génie Mécanique des Systèmes Industriels**<br>
-Mes projets sont rangés en deux univers : <b>cliquez sur un bouton pour ouvrir sa page</b>, ou dépliez un univers ci-dessous.
+**Élève ingénieur en Génie Mécanique des Systèmes Industriels**
 
-<a href="https://elmokhtarrayadi.github.io/conception/"><img src="assets/btn-conception.svg" alt="Univers 01 : Conception et simulation" width="49%"></a>
-<a href="https://elmokhtarrayadi.github.io/maintenance/"><img src="assets/btn-maintenance.svg" alt="Univers 02 : Maintenance, fiabilité et qualité" width="49%"></a>
+![CATIA V5](https://img.shields.io/badge/CATIA%20V5-0f2531?style=flat-square&logo=dassaultsystemes&logoColor=6ad8cc)
+![ANSYS](https://img.shields.io/badge/ANSYS-0f2531?style=flat-square)
+![Altair Inspire](https://img.shields.io/badge/Altair%20Inspire-0f2531?style=flat-square)
+![SimScale](https://img.shields.io/badge/SimScale-0f2531?style=flat-square)
+![SpaceClaim](https://img.shields.io/badge/SpaceClaim-0f2531?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0f2531?style=flat-square&logo=python&logoColor=6ad8cc)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f2531?style=flat-square)
+![Cura](https://img.shields.io/badge/Ultimaker%20Cura-0f2531?style=flat-square)
+![ISO 21001](https://img.shields.io/badge/ISO%2021001-0f2531?style=flat-square)
 
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<a id="conception"></a>
-<details>
-<summary><img src="assets/univers-conception-v2.svg" alt="Univers 01 — Conception et simulation : CATIA V5, ANSYS, SimScale, Altair Inspire, RDM, Python / MATLAB" width="100%"></summary>
-
-<img src="assets/metrics-conception.svg" alt="Conception : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), sécurité 2,4 (genou)" width="100%">
+## Mes projets
 
 <table>
 <tr>
@@ -79,28 +83,6 @@ Allègement d’un support de porte de train d’atterrissage : optimisation top
 
 </td>
 </tr>
-</table>
-
-| Compétence | Outils | Projets |
-| :-- | :-- | :-- |
-| **CAO & mise en plan** | CATIA V5 (paramétrique), SpaceClaim | Genou · Engrenage · Optimisation topologique |
-| **Calcul de structures** | RDM, ANSYS, SimScale, Altair Inspire, fatigue | Genou · Engrenage · Optimisation topologique |
-| **Dimensionnement d’organes** | Engrenages (Lewis, AGMA), liaisons, matériaux | Engrenage · Genou |
-| **Cinématique** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou |
-| **Optimisation & fabrication** | Optimisation topologique, PolyNURBS, Cura, gammes d’usinage, coûts | Optimisation topologique · Genou |
-| **Analyse fonctionnelle** | APTE, SysML, cahier des charges | Genou |
-
-</details>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-<a id="maintenance"></a>
-<details>
-<summary><img src="assets/univers-maintenance-v2.svg" alt="Univers 02 — Maintenance, fiabilité et qualité : AMDEC, fiabilité, MTBF, maintenance préventive, ISO 21001, PDCA" width="100%"></summary>
-
-<img src="assets/metrics-maintenance.svg" alt="Qualité : 72 critères évalués, 15 causes analysées, 14 actions d’amélioration" width="100%">
-
-<table>
 <tr>
 <td width="48%" valign="top">
 <a href="https://elmokhtarrayadi.github.io/diagnostic-iso-21001/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Tableau de bord de conformité ISO 21001" /></a>
@@ -123,20 +105,24 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 </tr>
 </table>
 
-<sub>🔧 Mes projets de maintenance et de fiabilité sont en cours de mise en ligne.</sub>
-
-| Compétence | Outils | Projets |
-| :-- | :-- | :-- |
-| **Analyse des causes** | Ishikawa 5M, analyse des écarts, priorisation | Diagnostic ISO 21001 |
-| **Management de la qualité** | ISO 21001, ISO 9001, audit, KPI | Diagnostic ISO 21001 |
-| **Amélioration continue** | PDCA, plan d’action, tableaux de bord | Diagnostic ISO 21001 |
-
-</details>
-
 <img src="assets/divider.svg" alt="" width="100%">
+
+## Ce que je sais faire, prouvé par mes projets
+
+| Compétence | Outils | Où le voir |
+| :-- | :-- | :-- |
+| **Conception CAO & mise en plan** | CATIA V5 (paramétrique), SpaceClaim | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Calcul de structures** | RDM, ANSYS, SimScale, Altair Inspire, fatigue | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Dimensionnement d’organes** | Engrenages (Lewis, AGMA), liaisons, choix de matériaux | Engrenage · Genou polycentrique |
+| **Cinématique & modélisation** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou polycentrique |
+| **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
+| **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
+| **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
+| **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
+| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 4 démos interactives |
 
 <div align="center">
 
-<sub>Chaque projet a une démo interactive en ligne et un README qui détaille la démarche, les résultats et les perspectives.<br>Les engrenages, le mécanisme 4 barres et la courbe en baignoire sont calculés puis animés en SVG.</sub>
+<sub>Chaque projet a une démo interactive en ligne et un README qui détaille la démarche, les résultats et les perspectives.<br>Les engrenages de la bannière sont de vraies dentures en développante (α = 20°), calculées et animées en SVG.</sub>
 
 </div>
