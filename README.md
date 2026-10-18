@@ -45,6 +45,26 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 </tr>
 <tr>
 <td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/optimisation-topologique-aeronautique/main/assets/reconstruction-catia.jpg" width="100%" alt="Pièce aéronautique reconstruite sous CATIA V5 après optimisation topologique" /></a>
+</td>
+<td valign="top">
+
+### Optimisation topologique d’une pièce aéronautique
+
+**CATIA V5 · Altair Inspire · PolyNURBS · Cura**
+
+Allègement d’un support de porte de train d’atterrissage : optimisation topologique, reconstruction de la forme, plan d’expériences de fabrication additive et étude de coûts.
+
+- **55 g → 24 g** : **−56 %** de masse
+- **12 configurations** d’impression comparées (orientation, couche, vitesse)
+- Analyse critique du résultat mécanique et pistes de la prochaine itération
+
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique)
+
+</td>
+</tr>
+<tr>
+<td width="48%" valign="top">
 <a href="https://elmokhtarrayadi.github.io/conception-genou-polycentrique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/conception-genou-polycentrique/main/assets/assemblage_plan_catia.webp" width="100%" alt="Assemblage CATIA V5 du genou prothétique polycentrique" /></a>
 </td>
 <td valign="top">
@@ -80,26 +100,6 @@ Réduction de la contrainte de flexion au pied de la dent : CAO paramétrique, c
 - **0,015 %** d’écart entre simulation et calcul AGMA
 
 [**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-engrenage-denture-droite/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-engrenage-denture-droite)
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-<a href="https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/optimisation-topologique-aeronautique/main/assets/reconstruction-catia.jpg" width="100%" alt="Pièce aéronautique reconstruite sous CATIA V5 après optimisation topologique" /></a>
-</td>
-<td valign="top">
-
-### Optimisation topologique d’une pièce aéronautique
-
-**CATIA V5 · Altair Inspire · PolyNURBS · Cura**
-
-Allègement d’un support de porte de train d’atterrissage : optimisation topologique, reconstruction de la forme, plan d’expériences de fabrication additive et étude de coûts.
-
-- **55 g → 24 g** : **−56 %** de masse
-- **12 configurations** d’impression comparées (orientation, couche, vitesse)
-- Analyse critique du résultat mécanique et pistes de la prochaine itération
-
-[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique)
 
 </td>
 </tr>
