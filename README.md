@@ -26,14 +26,15 @@ Conception mécanique · Calcul de structures / éléments finis · Optimisation
 
 | Compétence | Outils | Où le voir |
 | :-- | :-- | :-- |
-| **Conception CAO & mise en plan** | CATIA V5, SpaceClaim | Genou polycentrique · Optimisation topologique |
-| **Calcul de structures** | RDM, SimScale (EF), Altair Inspire, fatigue | Genou polycentrique · Optimisation topologique |
+| **Conception CAO & mise en plan** | CATIA V5 (paramétrique), SpaceClaim | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Calcul de structures** | RDM, ANSYS, SimScale, Altair Inspire, fatigue | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Dimensionnement d’organes** | Engrenages (Lewis, AGMA), liaisons, choix de matériaux | Engrenage · Genou polycentrique |
 | **Cinématique & modélisation** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou polycentrique |
 | **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
 | **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
 | **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
 | **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
-| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 3 démos interactives |
+| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 4 démos interactives |
 
 ---
 
@@ -57,6 +58,26 @@ Conception complète d’un genou prothétique à quatre barres, du cahier des c
 - **21,7 mm** de migration du centre instantané de rotation
 
 [**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/) · [**📄 Dossier technique**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/dossier-technique.html) · [Dépôt](https://github.com/elmokhtarrayadi/conception-genou-polycentrique)
+
+</td>
+</tr>
+<tr>
+<td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/optimisation-engrenage-denture-droite/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/optimisation-engrenage-denture-droite/main/assets/cas3-von-mises.webp" width="100%" alt="Contraintes de Von Mises sur l’engrenage optimisé sous ANSYS" /></a>
+</td>
+<td valign="top">
+
+### Optimisation d’un engrenage à denture droite
+
+**CATIA V5 · ANSYS · Fatigue · AGMA**
+
+Réduction de la contrainte de flexion au pied de la dent : CAO paramétrique, calcul éléments finis validé par la méthode AGMA, puis comparaison de trois modifications de géométrie.
+
+- **−17 %** de contrainte au pied de la dent (1 008 → 834 MPa)
+- **+64 %** de durée de vie en fatigue
+- **0,015 %** d’écart entre simulation et calcul AGMA
+
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-engrenage-denture-droite/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-engrenage-denture-droite)
 
 </td>
 </tr>
