@@ -3,7 +3,7 @@
 <div align="center">
 
 **Élève ingénieur en Génie Mécanique des Systèmes Industriels**<br>
-Mes projets sont rangés en deux univers : choisissez celui qui correspond à votre poste.
+Mes projets sont rangés en deux univers : <b>cliquez sur un univers pour l’ouvrir</b>.
 
 <a href="#conception"><img src="assets/btn-conception.svg" alt="Univers 01 : Conception et simulation" width="49%"></a>
 <a href="#maintenance"><img src="assets/btn-maintenance.svg" alt="Univers 02 : Maintenance, fiabilité et qualité" width="49%"></a>
@@ -13,8 +13,8 @@ Mes projets sont rangés en deux univers : choisissez celui qui correspond à vo
 <img src="assets/divider.svg" alt="" width="100%">
 
 <a id="conception"></a>
-
-<img src="assets/univers-conception.svg" alt="Univers 01 — Conception et simulation : CATIA V5, ANSYS, SimScale, Altair Inspire, RDM, Python / MATLAB" width="100%">
+<details>
+<summary><img src="assets/univers-conception-v2.svg" alt="Univers 01 — Conception et simulation : CATIA V5, ANSYS, SimScale, Altair Inspire, RDM, Python / MATLAB" width="100%"></summary>
 
 <img src="assets/metrics-conception.svg" alt="Conception : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), sécurité 2,4 (genou)" width="100%">
 
@@ -90,13 +90,13 @@ Allègement d’un support de porte de train d’atterrissage : optimisation top
 | **Optimisation & fabrication** | Optimisation topologique, PolyNURBS, Cura, gammes d’usinage, coûts | Optimisation topologique · Genou |
 | **Analyse fonctionnelle** | APTE, SysML, cahier des charges | Genou |
 
-<div align="right"><sub><a href="#maintenance">Voir l’univers Maintenance, Fiabilité &amp; Qualité ↓</a></sub></div>
+</details>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 <a id="maintenance"></a>
-
-<img src="assets/univers-maintenance.svg" alt="Univers 02 — Maintenance, fiabilité et qualité : AMDEC, fiabilité, MTBF, maintenance préventive, ISO 21001, PDCA" width="100%">
+<details>
+<summary><img src="assets/univers-maintenance-v2.svg" alt="Univers 02 — Maintenance, fiabilité et qualité : AMDEC, fiabilité, MTBF, maintenance préventive, ISO 21001, PDCA" width="100%"></summary>
 
 <img src="assets/metrics-maintenance.svg" alt="Qualité : 72 critères évalués, 15 causes analysées, 14 actions d’amélioration" width="100%">
 
@@ -131,7 +131,7 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 | **Management de la qualité** | ISO 21001, ISO 9001, audit, KPI | Diagnostic ISO 21001 |
 | **Amélioration continue** | PDCA, plan d’action, tableaux de bord | Diagnostic ISO 21001 |
 
-<div align="right"><sub><a href="#conception">↑ Revenir à l’univers Conception &amp; Simulation</a></sub></div>
+</details>
 
 <img src="assets/divider.svg" alt="" width="100%">
 

@@ -12,6 +12,11 @@
     <text x="60" y="110" font-size="42" font-weight="800" fill="#f2fbfa" letter-spacing="-1">Maintenance, Fiabilité &amp; Qualité</text>
     <text x="62" y="140" font-size="16" fill="#9cc3c9">J’analyse les défaillances, je fiabilise les équipements et j’améliore les processus.</text>
     <rect x="62" y="160" width="64" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="94" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">AMDEC</text><rect x="134.0" y="160" width="94" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="181" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">Fiabilité</text><rect x="236.39999999999998" y="160" width="110" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="291" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">MTBF · MTTR</text><rect x="354.0" y="160" width="193" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="451" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">Maintenance préventive</text><rect x="555.2" y="160" width="94" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="602" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">ISO 21001</text><rect x="657.6" y="160" width="56" height="28" rx="14" fill="#f2b45a" fill-opacity=".1" stroke="#f2b45a" stroke-opacity=".5"/><text x="686" y="179" text-anchor="middle" font-size="12.5" font-weight="600" fill="#d9eef0">PDCA</text>
+    <g transform="translate(1078 20)">
+      <rect width="174" height="30" rx="15" fill="#f2b45a" fill-opacity=".14" stroke="#f2b45a"/>
+      <text x="87" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#f2b45a">▾ Ouvrir les projets</text>
+      <animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/>
+    </g>
   </g>
   <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8fb4c0">
     <path d="M790.0 30.0 V186.0 H1089.0" fill="none" stroke="#8fb4c0" stroke-width="1.2"/>
