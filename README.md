@@ -65,6 +65,26 @@ Allègement d’un support de porte de train d’atterrissage : optimisation top
 </tr>
 <tr>
 <td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/maintenance-predictive-turboreacteur/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/maintenance-predictive-turboreacteur/main/assets/rul-historique.webp" width="100%" alt="RUL réel et prédit d’un turboréacteur CFM56-7B" /></a>
+</td>
+<td valign="top">
+
+### Maintenance prédictive d’un turboréacteur CFM56-7B
+
+**Pareto · AMDEC · Fiabilité · Python · XGBoost**
+
+Analyse des défaillances d’une flotte de turboréacteurs pour identifier le module le plus critique, puis modèle de machine learning qui prédit le nombre de vols restants avant la panne.
+
+- **7 causes** pour ≈ 80 % des déposes, AMDEC ciblant le cœur moteur
+- **R² = 0,87**, erreur moyenne de 9,7 vols (−27 % vs régression linéaire)
+- **9 à 19 vols** d’anticipation avant la panne réelle
+
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/maintenance-predictive-turboreacteur/) · [Dépôt](https://github.com/elmokhtarrayadi/maintenance-predictive-turboreacteur)
+
+</td>
+</tr>
+<tr>
+<td width="48%" valign="top">
 <a href="https://elmokhtarrayadi.github.io/conception-genou-polycentrique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/conception-genou-polycentrique/main/assets/assemblage_plan_catia.webp" width="100%" alt="Assemblage CATIA V5 du genou prothétique polycentrique" /></a>
 </td>
 <td valign="top">
@@ -118,8 +138,10 @@ Réduction de la contrainte de flexion au pied de la dent : CAO paramétrique, c
 | **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
 | **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
 | **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
+| **Maintenance & fiabilité** | AMDEC, Pareto, MTBF / MTTR, maintenance prédictive | Maintenance prédictive |
+| **Analyse de données** | Excel, Python, XGBoost, indicateurs de surveillance | Maintenance prédictive |
 | **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
-| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 4 démos interactives |
+| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 5 démos interactives |
 
 <div align="center">
 
