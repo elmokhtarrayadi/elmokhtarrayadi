@@ -1,4 +1,4 @@
-<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
+<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-v2.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
 
 <div align="center">
 

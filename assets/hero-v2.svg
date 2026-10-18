@@ -75,7 +75,7 @@
     <text x="60" y="172" font-size="64" font-weight="800" fill="#f2fbfa" letter-spacing="-1.5" class="fade" style="animation-delay:.15s">Elmokhtar Rayadi</text>
     <g clip-path="url(#type)"><text x="62" y="264" font-size="30" font-weight="500" fill="#b8d6dd">Je conçois · je simule · j’optimise.</text></g>
     <rect x="62" y="238" width="3" height="34" fill="#6ad8cc" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1s" begin=".6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur=".5s" begin=".6s" repeatCount="5" calcMode="discrete" fill="remove"/>
       <animate attributeName="x" values="62;552;552" keyTimes="0;.35;1" dur="7s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1"/>
     </rect>
 
