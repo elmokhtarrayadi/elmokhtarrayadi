@@ -1,16 +1,8 @@
+<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique, disponible pour un stage de PFE" width="100%"></a>
+
+<img src="assets/metrics.svg" alt="Chiffres clés : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), S = 2,4 (genou), 72 critères ISO 21001" width="100%">
+
 <div align="center">
-
-<img src="assets/engineering-portfolio-banner.svg" alt="Portfolio — Projets d’ingénierie mécanique" width="100%" />
-
-## Elmokhtar Rayadi
-
-**Élève ingénieur en Génie Mécanique des Systèmes Industriels**
-
-*Conception mécanique · Simulation numérique · Optimisation · Industrialisation · Qualité*
-
-### 🎯 À la recherche d’un stage de fin d’études (PFE)
-
-Conception mécanique · Calcul de structures / éléments finis · Optimisation et fabrication additive · Amélioration continue
 
 <!-- CONTACT : remplacez les liens ci-dessous puis supprimez ce commentaire
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VOTRE-PROFIL)
@@ -18,27 +10,23 @@ Conception mécanique · Calcul de structures / éléments finis · Optimisation
 [![CV](https://img.shields.io/badge/CV-Télécharger-087e87?style=for-the-badge)](LIEN-VERS-VOTRE-CV.pdf)
 -->
 
+**Élève ingénieur en Génie Mécanique des Systèmes Industriels** — je cherche un **stage de fin d’études** en conception mécanique, calcul de structures, optimisation ou industrialisation.
+
+![CATIA V5](https://img.shields.io/badge/CATIA%20V5-0f2531?style=flat-square&logo=dassaultsystemes&logoColor=6ad8cc)
+![ANSYS](https://img.shields.io/badge/ANSYS-0f2531?style=flat-square)
+![Altair Inspire](https://img.shields.io/badge/Altair%20Inspire-0f2531?style=flat-square)
+![SimScale](https://img.shields.io/badge/SimScale-0f2531?style=flat-square)
+![SpaceClaim](https://img.shields.io/badge/SpaceClaim-0f2531?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0f2531?style=flat-square&logo=python&logoColor=6ad8cc)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f2531?style=flat-square)
+![Cura](https://img.shields.io/badge/Ultimaker%20Cura-0f2531?style=flat-square)
+![ISO 21001](https://img.shields.io/badge/ISO%2021001-0f2531?style=flat-square)
+
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-## Ce que je sais faire, prouvé par mes projets
-
-| Compétence | Outils | Où le voir |
-| :-- | :-- | :-- |
-| **Conception CAO & mise en plan** | CATIA V5 (paramétrique), SpaceClaim | Genou polycentrique · Engrenage · Optimisation topologique |
-| **Calcul de structures** | RDM, ANSYS, SimScale, Altair Inspire, fatigue | Genou polycentrique · Engrenage · Optimisation topologique |
-| **Dimensionnement d’organes** | Engrenages (Lewis, AGMA), liaisons, choix de matériaux | Engrenage · Genou polycentrique |
-| **Cinématique & modélisation** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou polycentrique |
-| **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
-| **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
-| **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
-| **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
-| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 4 démos interactives |
-
----
-
-## 📂 Mes projets
+## Mes projets
 
 <table>
 <tr>
@@ -123,10 +111,24 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Ce que je sais faire, prouvé par mes projets
+
+| Compétence | Outils | Où le voir |
+| :-- | :-- | :-- |
+| **Conception CAO & mise en plan** | CATIA V5 (paramétrique), SpaceClaim | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Calcul de structures** | RDM, ANSYS, SimScale, Altair Inspire, fatigue | Genou polycentrique · Engrenage · Optimisation topologique |
+| **Dimensionnement d’organes** | Engrenages (Lewis, AGMA), liaisons, choix de matériaux | Engrenage · Genou polycentrique |
+| **Cinématique & modélisation** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou polycentrique |
+| **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
+| **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
+| **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
+| **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
+| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 4 démos interactives |
 
 <div align="center">
 
-<sub>Chaque projet dispose d’une démonstration interactive en ligne et d’un README détaillant la démarche, les résultats et les perspectives.</sub>
+<sub>Chaque projet a une démo interactive en ligne et un README qui détaille la démarche, les résultats et les perspectives.<br>Les engrenages de la bannière sont de vraies dentures en développante (α = 20°), calculées et animées en SVG.</sub>
 
 </div>
