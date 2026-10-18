@@ -4,92 +4,99 @@
 
 ## Elmokhtar Rayadi
 
-**Étudiant ingénieur en Génie Mécanique des Systèmes Industriels**
+**Élève ingénieur en Génie Mécanique des Systèmes Industriels**
 
-*Conception mécanique · Simulation · Optimisation · Qualité et amélioration continue*
+*Conception mécanique · Simulation numérique · Optimisation · Industrialisation · Qualité*
 
-Trois études de cas en **conception mécanique, biomécanique et management de la qualité** : besoins, méthodes, résultats numériques et limites de validation.
+### 🎯 À la recherche d’un stage de fin d’études (PFE)
 
-### Trois projets d’ingénierie
+Conception mécanique · Calcul de structures / éléments finis · Optimisation et fabrication additive · Amélioration continue
 
-[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) &nbsp; • &nbsp; [**🌐 Démo du projet 02**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) &nbsp; • &nbsp; [**🌐 Démo du projet 03**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/)
+<!-- CONTACT : remplacez les liens ci-dessous puis supprimez ce commentaire
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VOTRE-PROFIL)
+[![Email](https://img.shields.io/badge/Email-Écrire-202f45?style=for-the-badge&logo=gmail)](mailto:VOTRE-EMAIL)
+[![CV](https://img.shields.io/badge/CV-Télécharger-087e87?style=for-the-badge)](LIEN-VERS-VOTRE-CV.pdf)
+-->
 
 </div>
 
 ---
 
-<a id="mes-projets"></a>
+## Ce que je sais faire, prouvé par mes projets
 
-## 📂 Mes projets d’ingénierie
+| Compétence | Outils | Où le voir |
+| :-- | :-- | :-- |
+| **Conception CAO & mise en plan** | CATIA V5, SpaceClaim | Genou polycentrique · Optimisation topologique |
+| **Calcul de structures** | RDM, SimScale (EF), Altair Inspire, fatigue | Genou polycentrique · Optimisation topologique |
+| **Cinématique & modélisation** | Mécanisme 4 barres, CIR, Python / MATLAB | Genou polycentrique |
+| **Optimisation topologique** | Altair Inspire, PolyNURBS | Optimisation topologique |
+| **Industrialisation** | Gammes d’usinage, fabrication additive (Cura), coûts | Genou polycentrique · Optimisation topologique |
+| **Analyse fonctionnelle & systèmes** | APTE, SysML, cahier des charges | Genou polycentrique |
+| **Qualité & amélioration continue** | ISO 21001, Ishikawa 5M, PDCA, KPI | Diagnostic ISO 21001 |
+| **Valorisation des résultats** | HTML / CSS / JavaScript, tableaux de bord | Les 3 démos interactives |
 
-Le projet 03 distingue désormais **le dossier technique détaillé** et **la démonstration interactive**. Les autres études sont accessibles dans leurs dépôts et pages dédiées.
+---
+
+## 📂 Mes projets
 
 <table>
 <tr>
-<td width="51%" valign="top">
-<a href="https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/optimisation-topologique-aeronautique/main/assets/reconstruction-catia.jpg" width="100%" alt="Pièce aéronautique reconstruite sous CATIA V5 après optimisation topologique" /></a>
-<br/>
-<sub>Capture réelle : géométrie reconstruite sous CATIA V5.</sub>
+<td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/conception-genou-polycentrique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/conception-genou-polycentrique/main/assets/assemblage_plan_catia.webp" width="100%" alt="Assemblage CATIA V5 du genou prothétique polycentrique" /></a>
 </td>
 <td valign="top">
 
-### 01 · Optimisation topologique aéronautique
+### Genou prothétique polycentrique
 
-**CATIA V5 · Altair Inspire · Cura**
+**CATIA V5 · Cinématique 4R · RDM · SimScale · Usinage**
 
-**Résumé du projet.** Un support mécanique associé aux portes du train d’atterrissage a été étudié pour réduire sa masse tout en conservant ses interfaces de fixation. La démarche associe **CATIA V5** (conception), **Altair Inspire** (optimisation topologique et calcul), **PolyNURBS** (reconstruction) et **Cura** (étude de fabrication additive). La masse passe de **55 g à 24 g** dans l’étude, soit environ **56 % d’allègement estimé**. Sous une charge étudiée de **2 300 N**, le facteur de sécurité observé (**≈ 0,647**) reste inférieur à la cible (**1,25**) : la conception doit encore être vérifiée et améliorée.
+Conception complète d’un genou prothétique à quatre barres, du cahier des charges aux gammes d’usinage : synthèse cinématique du mécanisme, dimensionnement, CAO des pièces en Ti-6Al-4V, calcul éléments finis.
 
-**➡️ [VOIR LE PROJET SUR GITHUB](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique)**
+- **452 g** pour l’assemblage (cible ≤ 900 g)
+- **S ≈ 2,4** en statique sous **4 000 N**, **n ≈ 1,3** en fatigue sous 2 200 N
+- **21,7 mm** de migration du centre instantané de rotation
 
-**🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/)**
-
-<sub>Étude académique collective. Le facteur de sécurité observé (≈ 0,647) reste inférieur à la cible (1,25) ; la validation mécanique est à poursuivre.</sub>
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/) · [**📄 Dossier technique**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/dossier-technique.html) · [Dépôt](https://github.com/elmokhtarrayadi/conception-genou-polycentrique)
 
 </td>
 </tr>
 <tr>
-<td width="51%" valign="top">
-<a href="https://github.com/elmokhtarrayadi/diagnostic-iso-21001"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Projet ISO 21001 - Diagnostic qualité et tableau de bord de conformité" /></a>
-<br/>
-<sub>Tableau de bord qualité : conformité ISO 21001 et amélioration continue.</sub>
+<td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/optimisation-topologique-aeronautique/main/assets/reconstruction-catia.jpg" width="100%" alt="Pièce aéronautique reconstruite sous CATIA V5 après optimisation topologique" /></a>
 </td>
 <td valign="top">
 
-### 02 · Diagnostic ISO 21001 et amélioration continue
+### Optimisation topologique d’une pièce aéronautique
 
-**Audit qualité · Ishikawa 5M · PDCA · KPI**
+**CATIA V5 · Altair Inspire · PolyNURBS · Cura**
 
-**Résumé du projet.** Étude d’amélioration du management de la qualité d’une **école d’ingénieurs**, fondée sur la norme **ISO 21001**. Le travail suit cinq étapes : **évaluer les pratiques**, **identifier les écarts**, **analyser leurs causes potentielles** avec Ishikawa 5M, **proposer des actions correctives** et **comparer des scénarios théoriques**. Le diagnostic s'appuie sur **72 critères numérotés** ; l'analyse présente **15 facteurs potentiels** et **14 actions proposées**, avec responsables, délais et KPI. La planification affiche **46 % de conformité**. Les données divergentes sont signalées et aucune certification n'est revendiquée.
+Allègement d’un support de porte de train d’atterrissage : optimisation topologique, reconstruction de la forme, plan d’expériences de fabrication additive et étude de coûts.
 
-**🌐 [OUVRIR LA DÉMO INTERACTIVE](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/)**
+- **55 g → 24 g** : **−56 %** de masse
+- **12 configurations** d’impression comparées (orientation, couche, vitesse)
+- Analyse critique du résultat mécanique et pistes de la prochaine itération
 
-**📂 [CONSULTER LE DOSSIER TECHNIQUE](https://github.com/elmokhtarrayadi/diagnostic-iso-21001)**
-
-<sub>Étude académique collective · Cas anonymisé. Les scénarios sont indicatifs et distincts du diagnostic.</sub>
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) · [Dépôt](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique)
 
 </td>
 </tr>
 <tr>
-<td width="51%" valign="top">
-<a href="https://github.com/elmokhtarrayadi/conception-genou-polycentrique"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/conception-genou-polycentrique/main/assets/assemblage_plan_catia.webp" width="100%" alt="Conception sous CATIA : assemblage du genou prothétique polycentrique à quatre barres" /></a>
-<br/>
-<sub>Figure technique du projet : assemblage et définition mécanique du mécanisme polycentrique.</sub>
+<td width="48%" valign="top">
+<a href="https://elmokhtarrayadi.github.io/diagnostic-iso-21001/"><img src="https://raw.githubusercontent.com/elmokhtarrayadi/diagnostic-iso-21001/main/cover.svg" width="100%" alt="Tableau de bord de conformité ISO 21001" /></a>
 </td>
 <td valign="top">
 
-### 03 · Conception d'un genou prothétique polycentrique
+### Diagnostic qualité ISO 21001
 
-**CATIA V5 · Cinématique 4R · Python / MATLAB · RDM · Éléments finis**
+**Audit · Ishikawa 5M · PDCA · KPI**
 
-**Résumé du projet.** Étude d'une **prothèse externe de genou à quatre barres**, destinée à permettre la flexion tout en recherchant une stabilité en phase d'appui. La démarche comprend l'analyse fonctionnelle, la modélisation SysML, l'optimisation du centre instantané de rotation, le dimensionnement des liaisons, l'assemblage **CATIA V5**, puis une étude numérique de résistance et de fatigue. Le modèle présente une **masse CAO de 452 g** et une **migration du centre de rotation de 21,7 mm** dans l'étude. Des cas de charge de **4 000 N (statique)** et **2 200 N (fatigue)** ont été analysés numériquement.
+Diagnostic du système de management de la qualité d’une école d’ingénieurs : évaluation, analyse des causes et plan d’amélioration chiffré.
 
-**🌐 [OUVRIR LA DÉMONSTRATION INTERACTIVE — PROJET 03](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/)**
+- **72 critères** évalués sur les 7 chapitres d’exigences
+- **15 causes** analysées, **14 actions** avec responsable, délai et KPI
+- Priorité identifiée : planification (**46 %** de conformité)
 
-**📄 [LIRE LE DOSSIER TECHNIQUE — PROJET 03](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/dossier-technique.html)**
-
-**📂 [CONSULTER LES FICHIERS SUR GITHUB](https://github.com/elmokhtarrayadi/conception-genou-polycentrique)**
-
-<sub>Projet académique collectif · Aucun prototype fabriqué ni essai physique : les résultats ne constituent pas une certification ou une validation pour usage médical.</sub>
+[**🌐 Démo interactive**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) · [Dépôt](https://github.com/elmokhtarrayadi/diagnostic-iso-21001)
 
 </td>
 </tr>
@@ -97,33 +104,8 @@ Le projet 03 distingue désormais **le dossier technique détaillé** et **la d�
 
 ---
 
-## 🔍 Comment découvrir mes travaux ?
-
-| Vous souhaitez… | Cliquez ici |
-| :-- | :-- |
-| Examiner la démarche CAO, la méthode et les résultats | [**Dossier technique — Projet 01**](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique) |
-| Voir directement les visualisations et les comparateurs | [**Application interactive — Projet 01**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) |
-| Explorer le diagnostic de management ISO 21001 | [**Application interactive — Projet 02**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) |
-| Consulter les fichiers du projet ISO 21001 | [**Dossier technique — Projet 02**](https://github.com/elmokhtarrayadi/diagnostic-iso-21001) |
-| Lire les calculs cinématiques, RDM, simulations et gammes du genou | [**Dossier technique — Projet 03**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/dossier-technique.html) |
-| Explorer l'animation cinématique et les études mécaniques du genou | [**Application interactive — Projet 03**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/) |
-| Consulter les dépôts GitHub | [**Mes repositories**](https://github.com/elmokhtarrayadi?tab=repositories) |
-
-## 🛠️ Domaines représentés
-
-**Conception / CAO :** CATIA V5, modélisation et reconstruction géométrique.  
-**Simulation / Optimisation :** Altair Inspire, chargements, interprétation des facteurs de sécurité et optimisation topologique.  
-**Industrialisation :** fabrication additive, étude des paramètres Cura, analyse des coûts.  
-**Présentation des résultats :** tableaux de bord, visualisations techniques et outils d’exploration interactifs.
-
----
-
 <div align="center">
 
-### Accès rapide aux projets
-
-**Commencez par [Mes projets d’ingénierie](#mes-projets).** Chaque projet dispose d'un espace identifié, d'une documentation et d'une démonstration lorsqu'elle est disponible.
-
-[**Projet 01 — Conception mécanique**](https://github.com/elmokhtarrayadi/optimisation-topologique-aeronautique) · [**Projet 02 — Management qualité**](https://github.com/elmokhtarrayadi/diagnostic-iso-21001) · [**Projet 03 — Genou polycentrique**](https://github.com/elmokhtarrayadi/conception-genou-polycentrique)
+<sub>Chaque projet dispose d’une démonstration interactive en ligne et d’un README détaillant la démarche, les résultats et les perspectives.</sub>
 
 </div>
