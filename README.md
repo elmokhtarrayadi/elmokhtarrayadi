@@ -4,12 +4,6 @@
 
 <div align="center">
 
-<!-- CONTACT : remplacez les liens ci-dessous puis supprimez ce commentaire
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VOTRE-PROFIL)
-[![Email](https://img.shields.io/badge/Email-Écrire-202f45?style=for-the-badge&logo=gmail)](mailto:VOTRE-EMAIL)
-[![CV](https://img.shields.io/badge/CV-Télécharger-087e87?style=for-the-badge)](LIEN-VERS-VOTRE-CV.pdf)
--->
-
 **Élève ingénieur en Génie Mécanique des Systèmes Industriels** — je cherche un **stage de fin d’études** en conception mécanique, calcul de structures, optimisation ou industrialisation.
 
 ![CATIA V5](https://img.shields.io/badge/CATIA%20V5-0f2531?style=flat-square&logo=dassaultsystemes&logoColor=6ad8cc)
