@@ -12,7 +12,7 @@ Trois études de cas en **conception mécanique, biomécanique et management de 
 
 ### Trois projets d’ingénierie
 
-[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) &nbsp; • &nbsp; [**🌐 Démo du projet 02**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/)
+[**📂 Voir mes projets**](#mes-projets) &nbsp; • &nbsp; [**🌐 Ouvrir la démo du projet 01**](https://elmokhtarrayadi.github.io/optimisation-topologique-aeronautique/) &nbsp; • &nbsp; [**🌐 Démo du projet 02**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) &nbsp; • &nbsp; [**🌐 Démo du projet 03**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/)
 
 </div>
 
@@ -83,6 +83,8 @@ Chaque projet dispose d’un dossier technique ; les démonstrations interactive
 
 **Résumé du projet.** Étude d'une **prothèse externe de genou à quatre barres**, destinée à permettre la flexion tout en recherchant une stabilité en phase d'appui. La démarche comprend l'analyse fonctionnelle, la modélisation SysML, l'optimisation du centre instantané de rotation, le dimensionnement des liaisons, l'assemblage **CATIA V5**, puis une étude numérique de résistance et de fatigue. Le modèle présente une **masse CAO de 452 g** et une **migration du centre de rotation de 21,7 mm** dans l'étude. Des cas de charge de **4 000 N (statique)** et **2 200 N (fatigue)** ont été analysés numériquement.
 
+**🌐 [OUVRIR LA DÉMO INTERACTIVE — PROJET 03](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/)**
+
 **📂 [CONSULTER LE DOSSIER TECHNIQUE — PROJET 03](https://github.com/elmokhtarrayadi/conception-genou-polycentrique)**
 
 <sub>Projet académique collectif · Aucun prototype fabriqué ni essai physique : les résultats ne constituent pas une certification ou une validation pour usage médical.</sub>
@@ -102,6 +104,7 @@ Chaque projet dispose d’un dossier technique ; les démonstrations interactive
 | Explorer le diagnostic de management ISO 21001 | [**Application interactive — Projet 02**](https://elmokhtarrayadi.github.io/diagnostic-iso-21001/) |
 | Consulter les fichiers du projet ISO 21001 | [**Dossier technique — Projet 02**](https://github.com/elmokhtarrayadi/diagnostic-iso-21001) |
 | Examiner le mécanisme polycentrique, la cinématique et la CAO | [**Dossier technique — Projet 03**](https://github.com/elmokhtarrayadi/conception-genou-polycentrique) |
+| Explorer l'animation cinématique et les études mécaniques du genou | [**Application interactive — Projet 03**](https://elmokhtarrayadi.github.io/conception-genou-polycentrique/) |
 | Consulter les dépôts GitHub | [**Mes repositories**](https://github.com/elmokhtarrayadi?tab=repositories) |
 
 ## 🛠️ Domaines représentés
