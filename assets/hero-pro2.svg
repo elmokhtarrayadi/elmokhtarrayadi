@@ -68,12 +68,12 @@
   <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
     <text x="62" y="96" font-size="14" font-weight="700" fill="#6ad8cc" letter-spacing="4" class="fade">PORTFOLIO · GÉNIE MÉCANIQUE DES SYSTÈMES INDUSTRIELS</text>
     <text x="60" y="172" font-size="64" font-weight="800" fill="#f2fbfa" letter-spacing="-1.5" class="fade" style="animation-delay:.15s">Elmokhtar Rayadi</text>
-    <g clip-path="url(#type)"><text x="62" y="264" font-size="30" font-weight="500" fill="#b8d6dd">Je conçois · je simule · j’optimise.</text></g>
+    <g clip-path="url(#type)"><text x="62" y="264" font-size="30" font-weight="500" fill="#b8d6dd">Je conçois · je fiabilise · j’optimise.</text></g>
     
 
     
     <g class="fade" style="animation-delay:1.2s" font-size="15" font-weight="600" fill="#9cc3c9">
-      <text x="64" y="330">Conception   ·   Simulation   ·   Maintenance   ·   Fiabilité   ·   Qualité</text>
+      <text x="64" y="330">Conception mécanique   ·   Maintenance &amp; fiabilité   ·   Qualité</text>
     </g>
   </g>
 </svg>

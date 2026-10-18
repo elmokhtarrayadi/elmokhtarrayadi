@@ -1,10 +1,11 @@
-<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-pro.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
+<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-pro2.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
 
-<img src="assets/metrics-pro.svg" alt="Chiffres clés : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), S = 2,4 (genou), 72 critères ISO 21001" width="100%">
+<img src="assets/metrics-pro2.svg" alt="Chiffres clés : 72 critères ISO 21001, −56 % de masse, 9 à 19 vols d’anticipation de panne, −17 % de contrainte" width="100%">
 
 <div align="center">
 
-**Élève ingénieur en Génie Mécanique des Systèmes Industriels**
+**Élève ingénieur en Génie Mécanique des Systèmes Industriels**<br>
+Conception mécanique et simulation · Maintenance, fiabilité et qualité
 
 ![CATIA V5](https://img.shields.io/badge/CATIA%20V5-0f2531?style=flat-square&logo=dassaultsystemes&logoColor=6ad8cc)
 ![ANSYS](https://img.shields.io/badge/ANSYS-0f2531?style=flat-square)
@@ -14,7 +15,10 @@
 ![Python](https://img.shields.io/badge/Python-0f2531?style=flat-square&logo=python&logoColor=6ad8cc)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0f2531?style=flat-square)
 ![Cura](https://img.shields.io/badge/Ultimaker%20Cura-0f2531?style=flat-square)
-![ISO 21001](https://img.shields.io/badge/ISO%2021001-0f2531?style=flat-square)
+![AMDEC](https://img.shields.io/badge/AMDEC-3a2a10?style=flat-square)
+![Fiabilité](https://img.shields.io/badge/Fiabilit%C3%A9%20%C2%B7%20MTBF-3a2a10?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-3a2a10?style=flat-square)
+![ISO 21001](https://img.shields.io/badge/ISO%2021001-3a2a10?style=flat-square)
 
 </div>
 
