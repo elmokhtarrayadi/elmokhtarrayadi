@@ -1,8 +1,8 @@
-<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique, disponible pour un stage de PFE" width="100%"></a>
+<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
 
 <div align="center">
 
-**Élève ingénieur en Génie Mécanique des Systèmes Industriels**, je cherche un **stage de fin d’études**.<br>
+**Élève ingénieur en Génie Mécanique des Systèmes Industriels**<br>
 Mes projets sont rangés en deux univers : choisissez celui qui correspond à votre poste.
 
 <a href="#conception"><img src="assets/btn-conception.svg" alt="Univers 01 : Conception et simulation" width="49%"></a>
