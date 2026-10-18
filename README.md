@@ -1,6 +1,6 @@
-<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-v2.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
+<a href="https://github.com/elmokhtarrayadi"><img src="assets/hero-pro.svg" alt="Elmokhtar Rayadi — Élève ingénieur en génie mécanique" width="100%"></a>
 
-<img src="assets/metrics.svg" alt="Chiffres clés : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), S = 2,4 (genou), 72 critères ISO 21001" width="100%">
+<img src="assets/metrics-pro.svg" alt="Chiffres clés : −17 % de contrainte (engrenage), −56 % de masse (pièce aéronautique), S = 2,4 (genou), 72 critères ISO 21001" width="100%">
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+---
 
 ## Mes projets
 
@@ -105,7 +105,7 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%">
+---
 
 ## Ce que je sais faire, prouvé par mes projets
 
@@ -123,6 +123,6 @@ Diagnostic du système de management de la qualité d’une école d’ingénieu
 
 <div align="center">
 
-<sub>Chaque projet a une démo interactive en ligne et un README qui détaille la démarche, les résultats et les perspectives.<br>Les engrenages de la bannière sont de vraies dentures en développante (α = 20°), calculées et animées en SVG.</sub>
+<sub>Chaque projet a une démo interactive en ligne et un README qui détaille la démarche, les résultats et les perspectives.</sub>
 
 </div>
